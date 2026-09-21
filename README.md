@@ -6,8 +6,4 @@
  
 ## What I Learned 
 I learned how arrays and objects can represent real student data and how JavaScript array methods can 
-<<<<<<< HEAD
 transform, search, filter, and summarize that data.
-=======
-transform, search, filter, and summarize that data.
->>>>>>> 6b6fe96aa1ed8095e5ddf322e4dbc3c278f84ba9
